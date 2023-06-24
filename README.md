@@ -9,7 +9,7 @@
 <p dir="auto"><a href="https://twitter.com/Shoxru_xx" rel="nofollow"><img src="https://camo.githubusercontent.com/5d03c86f6a75f7cbe80d135d9162fbf6dc46a31253cf30a8e9bb8279b4d574d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="image" data-canonical-src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://t.me/shoxru_xdev" rel="nofollow"><img src="https://camo.githubusercontent.com/571308e5bb98a1fcb165eded6be6632a9f1c6536f1cf0f5d59d411eced41725f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3236413545342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" alt="image" data-canonical-src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;"></a></p>
 </div>
-
+<hr>
 - 🔭 I’m currently working on **ERP SYSTEM**
 
 - 🌱 I’m currently learning **cassandra database**
