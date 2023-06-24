@@ -11,7 +11,7 @@
 </div>
 <hr>
 
-<a href="tel:+998997558142">call me</a>
+<a href="tel:+998997558142">123-456-7890</a>
 - 🔭 I’m currently working on **ERP SYSTEM**
 
 - 🌱 I’m currently learning **cassandra database**
